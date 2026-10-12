@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HAMZA</string>
+    <string name="search_hint">ابحث أو أدخل عنوان URL</string>
+    <string name="go">اذهب</string>
+    <string name="back">رجوع</string>
+    <string name="forward">تقدم</string>
+    <string name="reload">تحديث</string>
+    <string name="home">الرئيسية</string>
+</resources>

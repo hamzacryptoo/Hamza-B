@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hamza_primary">#0B6E4F</color>
+    <color name="hamza_dark">#084C36</color>
+    <color name="hamza_bg">#FFFFFF</color>
+    <color name="hamza_accent">#FFD166</color>
+</resources>
